@@ -15,7 +15,7 @@ Why another template engine?
 #Install
 From visual studio go to `Tools` -> `Nuget Package Manager` -> `Package Manager Console` then in the `Package Manager console` write the next command.
 ```
-Install-Package SuperXml
+Install-Package SuperXml.NetCore
 ```
 Once it is installed you can use the `Compiler` class, you can find it at namespace `SuperXml`.
 #How to use it?
